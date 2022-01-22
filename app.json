@@ -1,0 +1,6 @@
+{
+  "name": "DrakerBot",
+  "description": "WhatsApp Bot echo en base a Nodejs",
+  "repository": "https://github.com/OchoaBot/DrakerBot",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Ochoa"]
+}
